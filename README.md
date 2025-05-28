@@ -30,7 +30,7 @@ MSC-Secretome-Analysis/
   * Testosterone + Anastrozole
   * Testosterone + 5α-reductase inhibitors (Dutasteride, Finasteride)
   * Vehicle control (EtOH)
-* **Secretome Collection**: Serum-free conditioned media collected after 5–7 days of treatment
+* **Secretome Collection**: Serum-free conditioned media collected after 48hours of treatment
 * **Proteomics**: Mass spectrometry (LC-MS/MS) and iBAQ quantification
 
 ---
@@ -63,6 +63,7 @@ Analysis was done using R, based on iBAQ values:
    * Volcano plots
    * Heatmaps of significant DEPs
    * Enrichment plots
+   * Clusterted heatmap
 
 ---
 
@@ -112,6 +113,6 @@ Analysis scripts assisted by OpenAI ChatGPT (May 2025, GPT-4.5).
 
 **Nazmul**, Postdoctoral Fellow
 Mauvais-Jarvis Lab, Tulane University
-📧 [your.email@domain.com](mailto:your.email@domain.com)
+📧 [shaque1@tulane.edu](mailto:shaque1@tulane.edu)
 
 
